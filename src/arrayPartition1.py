@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-
+	print("Hello World")
         # your solution here
 
         return 4
